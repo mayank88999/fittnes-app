@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbar_background">#0FA0E3</color>
+    <color name="background_odd">#080A0B</color>
+    <color name="background_even">#090B0C</color>
+    <color name="graph_fill">#060607</color>
+    <color name="background">#0C0909</color>
+    <color name="tableheader_background">#0C0707</color>
+    <color name="launcher_background">#0899D6</color>
+</resources>
